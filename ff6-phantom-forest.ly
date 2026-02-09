@@ -1,11 +1,11 @@
-\version "2.23.13"
+\version "2.24.0"
 \include "english.ly"
 
 \header {
   title = "The Phantom Forest"
   subtitle = "from Final Fantasy VI"
   composer = "Nobuo Uematsu"
-  arranger = "arr. for organ by Maddy Blue"
+  arranger = "arr. for organ by Madelynn Blue"
 }
 
 \score {
@@ -147,7 +147,7 @@
             a ~ a
             a a8 a r4 r
             r2.
-            r4 a8' f b, gs
+            r4 a'8 f b, gs
             a2. a8 a r4 r
             r r8 a b c
             b c d4 r
@@ -163,7 +163,7 @@
             bf2. ~ bf
             a a8 a r4 4
             r2.
-            r4 a8' f b, gs
+            r4 a'8 f b, gs
             a2. a8 a r4 r
             r r8 a b c
             b c d4 r
@@ -202,7 +202,7 @@
       a4 b c d c b a2.
       a4 g a b2 c4 g b, c a'2. g
       r r r r r r r r
-      a4, b c d e f g2 bf4 a2 bf4
+      a,4 b c d e f g2 bf4 a2 bf4
       g2. ~ g4 bf a8 f g2. ~ g ~ g4 r r r2.
     }
   >>

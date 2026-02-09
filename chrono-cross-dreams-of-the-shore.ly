@@ -1,11 +1,11 @@
-\version "2.23.13"
+\version "2.24.0"
 \include "english.ly"
 
 \header {
   title = "Dreams of the Shore Near Another World"
   subtitle = "from Chrono Cross"
   composer = "Yasunori Mitsuda"
-  arranger = "arr. for organ by Maddy Blue"
+  arranger = "arr. for organ by Madelynn Blue"
 }
 
 \score {
@@ -77,7 +77,7 @@
       r2 r4 r8 a
       d2. ~ d8 c16 d
       bf2 ~ bf8 f' bf, f'
-      f,2 ~ f8. c16' f g f8
+      f,2 ~ f8. c'16 f g f8
       c2 ~ c8. g16 c d c8
       d2. ~ d8 c16 d
       bf2 ~ bf4 f'8 bf,

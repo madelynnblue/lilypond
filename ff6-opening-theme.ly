@@ -1,11 +1,11 @@
-\version "2.23.13"
+\version "2.24.0"
 \include "english.ly"
 
 \header {
   title = "Opening Theme"
   subtitle = "from Final Fantasy VI"
   composer = "Nobuo Uematsu"
-  arranger = "arr. for organ by Maddy Blue"
+  arranger = "arr. for organ by Madelynn Blue"
 }
 
 \score {
@@ -33,7 +33,7 @@
 
         \time 3/4
         b8 ^ "Réc: Clarinette 8" e, a g cs e,
-        \repeat unfold 3 { b8' e, a g cs e, }
+        \repeat unfold 3 { b'8 e, a g cs e, }
         \repeat unfold 4 { c' gf bf af ef' gf, }
         \repeat unfold 4 { b e, a g cs e, }
         \repeat unfold 4 { c' gf bf af ef' gf, }
@@ -114,11 +114,11 @@
         g e c'2.
         g8 ef c2 d8 ef
         d bf g'2.
-        df8 a g'2. ~
+        df8 a g'2.
 
         \repeat unfold 8 {
           \tuplet 3/2 {
-            g32,[ b cs] d[ g b] cs[ b g] d[ cs b]
+            g,32[ b cs] d[ g b] cs[ b g] d[ cs b]
           }
         }
       }
@@ -163,7 +163,7 @@
 
         <<
           {
-            af1' ^ "Réc" ef e
+            af'1 ^ "Réc" ef e
           } \\ {
             c2 c cf4 \tuplet 3/2 { cf8 cf cf } cf2 c8 c c2.
           } \\ {
@@ -202,7 +202,7 @@
       \key ef \major
       \time 4/4
       \repeat unfold 4 { c1 ~ c4 r r2 }
-      c2' bf fs f c d ef f
+      c'2 bf fs f c d ef f
 
       \key bf \major
       c1 ~ c f ~ f

@@ -1,11 +1,11 @@
-\version "2.23.13"
+\version "2.24.0"
 \include "english.ly"
 
 \header {
   title = "Secret of the Forest"
   subtitle = "from Chrono Trigger"
   composer = "Yasunori Mitsuda"
-  arranger = "arr. for organ by Maddy Blue"
+  arranger = "arr. for organ by Madelynn Blue"
 }
 
 \score {
@@ -159,8 +159,8 @@
 
       ef2 bf'4 ~ bf16 ef, df8
       b2 gf'4 b,
-      c2 g4' c
-      f2, c2
+      c2 g'4 c
+      f'2 c2
     }
   >>
 }

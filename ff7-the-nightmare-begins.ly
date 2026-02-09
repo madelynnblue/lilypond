@@ -1,11 +1,11 @@
-\version "2.23.13"
+\version "2.24.0"
 \include "english.ly"
 
 \header {
   title = "The Nightmare Begins"
   subtitle = "from Final Fantasy VII"
   composer = "Nobuo Uematsu"
-  arranger = "arr. for organ by Maddy Blue"
+  arranger = "arr. for organ by Madelynn Blue"
 }
 
 \score {
